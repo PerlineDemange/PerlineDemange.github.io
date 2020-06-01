@@ -56,10 +56,7 @@ header {
 }
 .social-media-links li {
     display: inline-block;
-}
-.social-media-links li:not(:last-child)::after {
-     border: 2em; 
-         
+    padding: 0.5em;
 }
 
 
@@ -142,6 +139,7 @@ a:active {
 footer {
     color: var(--footer-text-color);
     text-align: center;
+    margin-top: 3em;
 }
 
 /* About page */
