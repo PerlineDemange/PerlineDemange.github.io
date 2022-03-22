@@ -53,6 +53,7 @@ header {
     list-style-type: none;
     padding-left: 0;
     display: inline;
+    text-align : center;
 }
 .social-media-links li {
     display: inline-block;
